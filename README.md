@@ -70,3 +70,5 @@ Do not call on Ruby's `#*`, `#+`, and ``#&` methods to accomplish this.
 * [Asterisk Method](http://ruby-doc.org/core-2.2.0/Array.html#method-i-2A)
 * [Ampersand Method](http://ruby-doc.org/core-2.2.0/Array.html#method-i-26)
 * [Monkey Patching](http://www.runtime-era.com/2012/12/reopen-and-modify-ruby-classes-monkey.html)
+
+<a href='https://learn.co/lessons/array-math-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
